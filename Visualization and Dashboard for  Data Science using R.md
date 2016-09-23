@@ -2,14 +2,21 @@
 
 >Graphical excellence is that which gives to the viewer the greatest number of ideas in the shortest time with the least ink in the smallest space. - Edward Tufte
 
-Learn to think like a data scientist in visualizing the data, create a narrative and publish it on the web as a dashboard
+In this two day workshop, learn to think like a data scientist in visualizing the data, create a story and publish it on the web as a dashboard.
 
-### Learning Objectives
+The ever increasing computational capacity has enabled us to acquire, process and analyze larger data-sets and information. However, the human memory and attention required to use this data is more limited and has remained relatively constant. Data visualisation can enable us to compress data and encode them in ways to aid perceptual, cognitive and emotional capacity required to comprehend, retain and make decisions using this data. This workshop is designed to help you learn the art and science of data visualisation and building a data science focussed dashboard.
+
+
+### Workshop Objectives
+
+The aim of the workshop is to provide a thorough introduction to the art and science of data visualisation and dashboard design.
+
 
 By the end of the workshop, the candidate would’ve learnt about the following:
 
 1. R
 2. Basics of Visualization
+3. Understand the value of data visualisation and the role it plays in business analytics and decision making
 3. Grammar of Graphics for Visualization
 4. Principles of Dashboard Design
 5. Static Dashboards
@@ -37,8 +44,6 @@ The workshop will be heavy on hands-on and will be heavy on thinking and critiqu
 **Tools**
 We will be using the `R` programming language and `Shiny` framework. 
 
-`Shiny` is based o
-
 
 ####Tentative agenda
 
@@ -47,6 +52,9 @@ Set of `tidyverse` packages
 Data Manipulation  
 
 **Introduction to Visualization**  
+Value of Viz - Expression, Exploratory, Explanatory
+Theory of data viz
+Types of viz
 
 **Introduction to Dashboards**  
 Understand the purpose and types of dashboards  
@@ -84,3 +92,15 @@ Publish on Cloud
 **Conclusion**  
 Takeaway principles of effective data dashboards  
 Wrap up and feedback
+
+### Wokshop Pricing
+
+Rs. 10,000 per person
+
+### Venue
+
+TBD
+
+### Refund Policies
+
+TBD
