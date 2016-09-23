@@ -41,7 +41,8 @@ An ideal attendee would be doing some data analysis at work. He/She is comfortab
 
 The workshop will be heavy on hands-on and will be heavy on thinking and critiquing the work as we continue to develop the dashboard. 
 
-**Tools**
+**Tools**  
+
 We will be using the `R` programming language and `Shiny` framework. 
 
 
